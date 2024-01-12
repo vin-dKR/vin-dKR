@@ -1,7 +1,7 @@
 <h1 align="center">Coders 👋, I'm Vinod Kumar Murmu</h1>
 <h3 align="center">A mad MERN developer</h3>
 
-(img align="right" alt="Coding" width="400" src="https://cdn270.picsart.com/8ff7b2e8-6093-488a-9db5-85ccc93ba8d6/442760799046201.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn270.picsart.com/8ff7b2e8-6093-488a-9db5-85ccc93ba8d6/442760799046201.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vin-dkr&label=Profile%20views&color=0e75b6&style=flat" alt="vin-dkr" /> </p>
 
