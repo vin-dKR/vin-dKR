@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/always_vinodkr" target="blank"><img src="https://img.shields.io/twitter/follow/always_vinodkr?logo=twitter&style=for-the-badge" alt="always_vinodkr" /></a> </p>
 
-- 🔭 I’m currently working on **Splash Project (own)**
+- 🔭 I’ve acomplished **Splash Project (own)**
 
 - 🌱 currently learning **Redux (or Context API)**
 
