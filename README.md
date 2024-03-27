@@ -10,7 +10,7 @@
 
 - 🔭 I’ve acomplished **Splash Project (own)**
 
-- 🌱 currently learning **Redux (or Context API)**
+- 🌱 currently learning **useRedux()**
 
 - 👨‍💻 Project Documentary [https://www.youtube.com/@vinodkumarmurmu](https://www.youtube.com/@vinodkumarmurmu)
 
