@@ -10,7 +10,7 @@
 
 - 🔭 I’ve acomplished **Splash Project (own)**
 
-- 🌱 currently learning **useRedux()**
+- 🌱 currently learning **Recoil**
 
 - 👨‍💻 Project Documentary [https://www.youtube.com/@vinodkumarmurmu](https://www.youtube.com/@vinodkumarmurmu)
 
