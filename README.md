@@ -12,17 +12,15 @@
 
 - 🚀 I’ve accomplished [Splash Project (own)](https://vinodkrs.notion.site/Plash-Gallery-Project-b0128e7710ef4ad4ad6e8c6b81af00be?pvs=25)
 
-- 🤝 I'm currently working on [e-commerce](https://github.com/vin-dKR/e-commerce)
+- 👨‍💻 All of my projects are available at [/vin-dKR](https://github.com/vin-dKR)
 
-- 👨‍💻 All of my projects are available at [https://github.com/vin-dKR](https://github.com/vin-dKR)
-
-- 👨‍💻 Plash Project Documentary [https://youtu.be/EH8lwI9jpVI?si=SB6BW9Vp9RABNPR6](https://youtu.be/EH8lwI9jpVI?si=SB6BW9Vp9RABNPR6)
+- 👨‍💻 Plash Project Documentary [youtube/Plash-documentary](https://www.youtube.com/watch?v=EH8lwI9jpVI)
 
 - 💬 Ask me about **mars 🌕**
 
 - 📫 How to reach me **vinodkumarmurmu62@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vinodkrs/](https://www.linkedin.com/in/vinodkrs/)
+- 📄 Know about my experiences [linkedin.com/in/vinodkrs/](https://www.linkedin.com/in/vinodkrs/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
