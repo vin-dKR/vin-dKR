@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/YkpXQQT/VID-20231225-211557-1.gif)]([https://rishavchanda.io](https://www.youtube.com/channel/UCN0QSHz8gEIwfAPsvTM6L6g))
 <h1 align="center">Hi 👋, I'm Vinod Kumar Murmu</h1>
-<h3 align="center">A MERN developer</h3>
+<h3 align="center">a MERN developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn270.picsart.com/8ff7b2e8-6093-488a-9db5-85ccc93ba8d6/442760799046201.gif"> 
 
@@ -10,7 +10,9 @@
 
 - 🔭 I’ve acomplished **Splash Project (own)**
 
-- 🌱 currently learning **Recoil**
+- 🌱 currently learning **Next Js**
+  
+- 🌱 currently working on **vin-dKR/e-commerce**
 
 - 👨‍💻 Project Documentary [https://www.youtube.com/@vinodkumarmurmu](https://www.youtube.com/@vinodkumarmurmu)
 
