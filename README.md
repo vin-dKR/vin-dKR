@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vin-dkr&label=Profile%20views&color=0e75b6&style=flat" alt="vin-dkr" /> </p>
 
-- 🔭 I’m currently working on [vin-dKR/e-commerce](https://github.com/vin-dKR/e-commerce)
+- 🔭 I’m currently working on [vin-dKR/medium-blog](https://github.com/vin-dKR/Blog)
 
 - 🌱 I’m currently learning **Next JS**
 
