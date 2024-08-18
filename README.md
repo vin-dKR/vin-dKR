@@ -1,12 +1,12 @@
 [![MasterHead](https://i.ibb.co/YkpXQQT/VID-20231225-211557-1.gif)]([https://rishavchanda.io](https://www.youtube.com/channel/UCN0QSHz8gEIwfAPsvTM6L6g))
 <h1 align="center">Hi 👋, I'm Vinod KR</h1>
-<h3 align="center">a MERN developer</h3>
+<h3 align="center">a FULL STACK developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn270.picsart.com/8ff7b2e8-6093-488a-9db5-85ccc93ba8d6/442760799046201.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vin-dkr&label=Profile%20views&color=0e75b6&style=flat" alt="vin-dkr" /> </p>
 
-- 🔭 I’m currently working on [google-docs-realtime](https://github.com/vin-dKR/google-docs)
+- 🔭 I’m currently working on [hellium-SaaS](https://github.com/vin-dKR/hellium)
 
 - 🌱 I’m currently learning **Next JS**
 
