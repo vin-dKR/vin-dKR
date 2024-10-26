@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vin-dkr&label=Profile%20views&color=0e75b6&style=flat" alt="vin-dkr" /> </p>
 
-- 🔭 I’m currently working on [hellium-SaaS](https://github.com/vin-dKR/hellium)
+- 🔭 I’m currently working on [hellium-SaaS](https://github.com/vin-dKR/hellium) & [payTN](https://github.com/vin-dKR/payTN)
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Rust**
 
-- 🚀 I’ve accomplished [Splash Project (own)](https://vinodkrs.notion.site/Plash-Gallery-Project-b0128e7710ef4ad4ad6e8c6b81af00be?pvs=25)
+- 🚀 I’ve accomplished [Google Docs](https://google-docs-xi-eight.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [/vin-dKR](https://github.com/vin-dKR)
 
