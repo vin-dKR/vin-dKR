@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vin-dkr&label=Profile%20views&color=0e75b6&style=flat" alt="vin-dkr" /> </p>
 
-- 🔭 I’m currently working on [hellium-SaaS](https://github.com/vin-dKR/hellium) & [payTN](https://github.com/vin-dKR/payTN)
+- 🔭 I’m currently working on [portfolio](https://github.com/vin-dKR/portfolio)
 
 - 🌱 I’m currently learning **Rust**
 
-- 🚀 I’ve accomplished [Google Docs](https://google-docs-xi-eight.vercel.app/)
+- 🚀 I’ve accomplished [hellium-SaaS](https://github.com/vin-dKR/hellium)
 
 - 👨‍💻 All of my projects are available at [/vin-dKR](https://github.com/vin-dKR)
 
@@ -20,6 +20,7 @@
 - 📫 How to reach me **vinodkumarmurmu62@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/vinodkrs/](https://www.linkedin.com/in/vinodkrs/)
+- 🐦 [@always_Vinodkr](https://x.com/always_VinodKr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
