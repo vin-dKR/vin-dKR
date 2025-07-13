@@ -1,26 +1,22 @@
-[![MasterHead](https://i.ibb.co/YkpXQQT/VID-20231225-211557-1.gif)]([https://rishavchanda.io](https://www.youtube.com/channel/UCN0QSHz8gEIwfAPsvTM6L6g))
+[![MasterHead](![lgtm](https://github.com/user-attachments/assets/91e030d7-c2ab-40cb-b3ee-2fa1ea2de97b))
 <h1 align="center">Hi 👋, I'm Vinod KR</h1>
-<h3 align="center">a FULL STACK developer</h3>
+<h3 align="center">a FULL STACK engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vin-dkr&label=Profile%20views&color=0e75b6&style=flat" alt="vin-dkr" /> </p>
 
-[onlyfans](https://onlyfans-vinodkr.vercel.app/)
-- 🔭 I’m currently working on [portfolio](https://github.com/vin-dKR/portfolio)
-
 - 🌱 I’m currently learning **Rust**
 
-- 🚀 I’ve accomplished [hellium-SaaS](https://github.com/vin-dKR/hellium)
+- 🚀 This is for my [onlyfans](https://onlyfans-vinodkr.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [/vin-dKR](https://github.com/vin-dKR)
+- 👨‍💻 [Portfolio](https://portfolio-vinokr.vercel.app/)
 
-- 👨‍💻 Plash Project Documentary [youtube/Plash-documentary](https://www.youtube.com/watch?v=EH8lwI9jpVI)
+- 💬 **sponsor me to go to mars 🌕**
 
-- 💬 Ask me about **mars 🌕**
+- 📫 **vinodkumarmurmu62@gmail.com**
 
-- 📫 How to reach me **vinodkumarmurmu62@gmail.com**
+- 📄 Know about my experiences [linkedin.com/in/vinodkrs/](https://www.linkedin.com/in/vinodkrs/) (abandoned)
 
-- 📄 Know about my experiences [linkedin.com/in/vinodkrs/](https://www.linkedin.com/in/vinodkrs/)
 - 🐦 [@always_Vinodkr](https://x.com/always_VinodKr)
 
 <h3 align="left">Connect with me:</h3>
