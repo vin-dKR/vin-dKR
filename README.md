@@ -1,4 +1,5 @@
-[![MasterHead](![lgtm](https://github.com/user-attachments/assets/91e030d7-c2ab-40cb-b3ee-2fa1ea2de97b))
+![lgtm](https://github.com/user-attachments/assets/3e53c0b9-821c-4e76-b7a9-d142efa0424b)
+
 <h1 align="center">Hi 👋, I'm Vinod KR</h1>
 <h3 align="center">a FULL STACK engineer</h3>
 
