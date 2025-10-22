@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vin-dkr&label=Profile%20views&color=0e75b6&style=flat" alt="vin-dkr" /> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust || React Native**
 
-- 🚀 This is for my [onlyfans](https://onlyfans-vinodkr.vercel.app/)
+- 🚀 This is for my [onlyfans](https://onlyfans.vinodkr.in/)
 
-- 👨‍💻 [Portfolio](https://portfolio-vinokr.vercel.app/)
+- 👨‍💻 [Portfolio](https://vinodkr.in/)
 
 - 💬 **sponsor me to go to mars 🌕**
 
