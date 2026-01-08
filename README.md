@@ -14,9 +14,11 @@ Currently diving deep into **Rust** and **React Native** while maintaining sever
 
 ---
 
-<div style="display: flex; gap: 20px;">
+<div style="background-color: #fef9e7; border-radius: 20px; padding: 20px;">
 
-<div style="background-color: #fef9e7; border: 1px solid #000000; border-radius: 20px; padding: 20px; flex: 1; text-align: left;">
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="text-align: left; padding-right: 20px;">
 
 ### Currently Working
 
@@ -30,9 +32,9 @@ AI wallpaper generator bot running on X.com
 *Node.js · TypeScript · Replicate · Stability AI*  
 `Live` · [X](https://x.com/vin_wallpapers)
 
-</div>
-
-<div style="background-color: #fef9e7; border: 1px solid #000000; border-radius: 20px; padding: 20px; flex: 1; text-align: left;">
+</td>
+<td width="1" style="border-left: 1px solid #e5e5e5; padding: 0;"></td>
+<td width="50%" valign="top" style="text-align: left; padding-left: 20px;">
 
 ### Featured
 
@@ -51,7 +53,9 @@ AI-powered sales assistant that can be embedded anywhere
 *Next.js · TypeScript · Prisma · Clerk · PostgreSQL*  
 `Completed` · [Live](https://hellium.vercel.app/)
 
-</div>
+</td>
+</tr>
+</table>
 
 </div>
 
