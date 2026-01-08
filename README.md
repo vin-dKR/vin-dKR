@@ -76,14 +76,10 @@ New frameworks, better patterns, and anything that helps me build faster and shi
 I'm always open to:
 - 💼 **Job opportunities** (remote preferred)
 - 🤝 **Collaboration** on interesting projects
+- ☕ **Coffee chats** about tech, startups, or life
 - 🚀 **Sponsoring my trip to Mars** (just kidding... or am I?)
 
-**Reach out:**
-- 📧 [Email](mailto:vinodkumarmurmu62@gmail.com)
-- 🐦 [Twitter](https://x.com/always_VinodKr)
-- 💼 [LinkedIn](https://www.linkedin.com/in/vinodkrs/)
-- 🌐 [Portfolio](https://vinodkr.in/)
-- 🔗 [All Projects](https://onlyfans.vinodkr.in/)
+**Reach out:** 📧 [Email](mailto:vinodkumarmurmu62@gmail.com) · 🐦 [Twitter](https://x.com/always_VinodKr) · 💼 [LinkedIn](https://www.linkedin.com/in/vinodkrs/) · 🌐 [Portfolio](https://vinodkr.in/) · 🔗 [All Projects](https://onlyfans.vinodkr.in/)
 
 ---
 
