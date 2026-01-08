@@ -16,7 +16,7 @@ Currently diving deep into **Rust** and **React Native** while maintaining sever
 
 <div style="background-color: #fef9e7; border-radius: 20px; padding: 20px;">
 
-<table width="100%">
+<table width="100%" style="background-color: #fef9e7; border: 1px solid black; border-radius: 20px;">
 <tr>
 <td width="50%" valign="top" style="text-align: left; padding-right: 20px;">
 
