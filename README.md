@@ -25,6 +25,11 @@ AI-powered web scraper that intelligently extracts and processes web content
 *Node.js · TypeScript · OpenAI*  
 `In progress` · [GitHub](https://github.com/vin-dKR/vin-scrapper-ai)
 
+- **🎵 Please God One Hit**  
+Platform helping creators maximize content reach by publishing and distributing content across multiple social media accounts to increase visibility and growth probability  
+*TypeScript · Automation · Social Media Tools*  
+`Building` · [GitHub](https://github.com/vin-dKR/please-god-one-hit)
+
 - **🎨 Vin Wallpaper**  
 AI wallpaper generator bot running on X.com  
 *Node.js · TypeScript · Replicate · Stability AI*  
@@ -70,6 +75,7 @@ AI-powered sales assistant that can be embedded anywhere
 **Always learning:**  
 New frameworks, better patterns, and anything that helps me build faster and ship better products.
 
+---
 
 ## Let's Connect
 
@@ -79,7 +85,12 @@ I'm always open to:
 - ☕ **Coffee chats** about tech, startups, or life
 - 🚀 **Sponsoring my trip to Mars** (just kidding... or am I?)
 
-**Reach out:** 📧 [Email](mailto:vinodkumarmurmu62@gmail.com) · 🐦 [Twitter](https://x.com/always_VinodKr) · 💼 [LinkedIn](https://www.linkedin.com/in/vinodkrs/) · 🌐 [Portfolio](https://vinodkr.in/) · 🔗 [All Projects](https://onlyfans.vinodkr.in/)
+**Reach out:**  
+📧 [Email](mailto:vinodkumarmurmu62@gmail.com)  
+🐦 [Twitter](https://x.com/always_VinodKr)  
+💼 [LinkedIn](https://www.linkedin.com/in/vinodkrs/)  
+🌐 [Portfolio](https://vinodkr.in/)  
+🔗 [All Projects](https://onlyfans.vinodkr.in/)
 
 ---
 
